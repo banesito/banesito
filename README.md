@@ -1,4 +1,7 @@
-# 🌐 Socials:
+# 💫 About Me:
+🔭 I'M CURRENTLY WORKING ON<br>Building RESTful APIs with Django Rest Framework and Spring Boot.<br>👯 I'M LOOKING TO COLLABORATE ON<br>Open-source projects involving Python, Java, or backend development.<br>🤝 I'M LOOKING FOR HELP WITH<br>Optimizing performance in Spring Boot microservices.<br>🌱 I'M CURRENTLY LEARNING<br>Advanced design patterns for scalable backend systems.<br>💬 ASK ME ABOUT<br>Best practices for API development with Django Rest Framework.<br>⚡ FUN FACT<br>I can debug a Python script faster than I can brew my morning coffee!
+
+## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/albansh.dev) 
 
 # 💻 Tech Stack:
