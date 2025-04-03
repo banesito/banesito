@@ -17,7 +17,6 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/alban-shermadhi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alban%20Shermadhi-blue?style=flat-square&logo=linkedin"></a>
