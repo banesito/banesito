@@ -19,6 +19,6 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### Contact Me
-<a href="https://bsky.app/profile/yourusername.bsky.social"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-Alban%20Shermadhi-blue?style=flat-square&logo=bluesky"></a>
+<a href="https://bsky.app/profile/banesito.dev"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-Alban%20Shermadhi-blue?style=flat-square&logo=bluesky"></a>
 <a href="mailto:albanshermadhi@example.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-AlbanShermadhi-blue?style=flat-square&logo=gmail"></a>
 
